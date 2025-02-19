@@ -1,7 +1,7 @@
 {
     "name": "Blockemon",
     "preductname": "Blockemon Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Pokemon modded server launcher",
     "main": "src/app.js",
     "author": "Evonia",
@@ -36,6 +36,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EvoniaZ/LauncherEvoniaZ.git"
+        "url": "git+https://github.com/EvoniaZ/Block-mon.git"
     }
 }
